@@ -8,11 +8,11 @@
         <div class="bg-yellow-600 py-1 pl-2"><strong>Current time: {{ currentTime }}</strong></div>
       </div>
 
-      <div class="bg-yellow-500 px-3 py-1"><a href="#" class="hover-underline"><strong>$CN on SOL</strong></a></div>
+      <div class="bg-yellow-500 px-3 py-1"><a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R&fixed=in" class="hover-underline"><strong>$CN on SOL</strong></a></div>
       <div class="flex flex- gap-4 bg-gray-400 pl-8 pr-8 py-1">
-        <div><a href="#" class="hover-underline"><strong>SOLSCAN</strong></a></div>
-        <div><a href="#" class="hover-underline"><strong>BIRDEYE</strong></a></div>
-        <div><a href="#" class="hover-underline"><strong>RUGCHECKER</strong></a></div>
+        <div><a href="https://solscan.io/token/D2desKRo8yuLCbiWatJMqwiX5AuoKab79JcYZN3fyu7U" class="hover-underline"><strong>SOLSCAN</strong></a></div>
+        <div><a href="https://birdeye.so/token/D2desKRo8yuLCbiWatJMqwiX5AuoKab79JcYZN3fyu7U?chain=solana" class="hover-underline"><strong>BIRDEYE</strong></a></div>
+        <div><a href="https://rugcheck.xyz/tokens/D2desKRo8yuLCbiWatJMqwiX5AuoKab79JcYZN3fyu7U" class="hover-underline"><strong>RUGCHECKER</strong></a></div>
         <div><a href="https://twitter.com/cnsolana" class="hover-underline"><strong>TWITTER</strong></a></div>
         <div><a href="https://t.me/cnonsol" class="hover-underline"><strong>TELEGRAM</strong></a></div>
       </div>
