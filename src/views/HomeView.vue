@@ -13,8 +13,8 @@
         <div><a href="#" class="hover-underline"><strong>SOLSCAN</strong></a></div>
         <div><a href="#" class="hover-underline"><strong>BIRDEYE</strong></a></div>
         <div><a href="#" class="hover-underline"><strong>RUGCHECKER</strong></a></div>
-        <div><a href="#" class="hover-underline"><strong>TWITTER</strong></a></div>
-        <div><a href="#" class="hover-underline"><strong>TELEGRAM</strong></a></div>
+        <div><a href="https://twitter.com/cnsolana" class="hover-underline"><strong>TWITTER</strong></a></div>
+        <div><a href="https://t.me/cnonsol" class="hover-underline"><strong>TELEGRAM</strong></a></div>
       </div>
       <div class="flex bg-gray-300 px-3 py-1">
         <div class="pr-3">SEARCH</div>
@@ -44,10 +44,11 @@
       <div class="flex flex-col gap-3 w-full md:col-span-7">
         <div class="w-full grid grid-cols-5 gap-3">
           <div class="col-span-4 border">
-            <video controls autoplay class="w-full">
-              <source src="@/assets/Intro.mp4" type="video/mp4">
-              Your browser does not support the video tag
-            </video>
+            <video controls autoplay muted class="w-full">
+    <source src="@/assets/Intro.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 
           </div>
           <img src="@/assets/e.jpeg" class="w-full h-full" />
